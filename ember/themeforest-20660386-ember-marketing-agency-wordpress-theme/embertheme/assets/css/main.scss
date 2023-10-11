@@ -1,0 +1,183 @@
+@charset "UTF-8";
+
+/* Core Styles */
+html {
+  background: #fff;
+  display: block;
+}
+
+.white {
+  color: var(--white-color);
+}
+
+.primary {
+  color: var(--primary-color);
+}
+
+.black {
+  color: var(--black-color);
+}
+
+.hidden, .none {
+  display: none;
+  visibility: hidden;
+}
+
+.thin {
+  font-weight: 400;
+}
+
+.bold {
+  font-weight: bold;
+}
+
+body {
+  display: block;
+  margin: 0 auto;
+  overflow-x: hidden;
+  height: auto;
+  position: static;
+  img {
+    max-width: 100%;
+  }
+}
+
+.clearfix {
+  &:before, &:after {
+    content: "";
+    display: table;
+    clear: both;
+  }
+}
+
+.flex-center {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.flex-left {
+  display: flex;
+  justify-content: flex-start;
+  align-items: center;
+}
+
+.flex-right {
+  display: flex;
+  justify-content: flex-end;
+  align-items: center;
+}
+
+.relative {
+  position: relative;
+}
+
+.img-responsive {
+  width: 100%;
+  height: auto;
+}
+
+.white-bg {
+  background: var(--white);
+}
+
+.overflow-hidden {
+  overflow: hidden !important;
+}
+
+.circle {
+  border-radius: 50%;
+  overflow: hidden;
+}
+
+.no-padding {
+  padding: 0px !important;
+}
+
+.no-margin {
+  margin: 0 !important;
+}
+
+.default-content {
+  padding: 50px 15px;
+  margin: 0 auto;
+  max-width: 1140px;
+}
+
+.block {
+  display: block !important;
+}
+
+.wp-error {
+  color: red;
+  font-size: 18px;
+}
+
+.disabled {
+  pointer-events: none !important;
+  cursor: not-allowed !important;
+}
+
+.aligncenter {
+  text-align: center;
+}
+
+.alignleft {
+  text-align: left;
+}
+
+.alignright {
+  text-align: right;
+}
+
+.bypostauthor, .gallery-caption, .sticky, .wp-caption, .wp-caption-text {
+  box-sizing: border-box;
+}
+
+.parallax {
+  background-attachment: fixed;
+  @media (max-width: 991px) {
+    background-attachment: scroll;
+  }
+}
+
+@import "_ie.scss";
+@import "_typography.scss";
+@import "_elements.scss";
+@import "_preloader.scss";
+@import "_nav.scss";
+@import "_footer.scss";
+@import "_blog.scss";
+@import "_comments.scss";
+@import "_shortcodes.scss";
+
+/* King Composer Font Awesome 5 Free FIX */
+.fab {
+  font-family: "Font Awesome 5 Brands" !important;
+  &:before, &:after {
+    font-family: "Font Awesome 5 Brands" !important;
+  }
+}
+
+.fa, .fas, .far {
+  -moz-osx-font-smoothing: grayscale;
+  -webkit-font-smoothing: antialiased;
+  display: inline-block;
+  font-style: normal;
+  font-variant: normal;
+  text-rendering: auto;
+  line-height: 1;
+  font-family: 'Font Awesome 5 Free' !important;
+  font-weight: 900 !important;
+  &:before, &:after {
+    font-weight: 900 !important;
+    font-family: 'Font Awesome 5 Free' !important;
+  }
+}
+
+.far {
+  font-weight: 400 !important;
+  &:before, &:after {
+    font-weight: 400 !important;
+  }
+}

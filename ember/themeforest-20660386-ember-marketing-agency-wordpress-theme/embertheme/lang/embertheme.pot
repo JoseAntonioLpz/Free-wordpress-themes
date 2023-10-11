@@ -1,0 +1,1060 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Lazarus\n"
+"POT-Creation-Date: 2018-06-24 19:11+0300\n"
+"PO-Revision-Date: 2017-08-21 14:01+0200\n"
+"Last-Translator: Alethemes.com <alexandr.sochirca@gmail.com>\n"
+"Language-Team: differ.monster@gmail.com\n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.0.4\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x;esc_html__;esc_html_e;esc_attr__;"
+"esct_attr_e\n"
+"X-Poedit-Basepath: .\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-SearchPath-0: ..\n"
+
+#: ../comments.php:20 ../differ/functions/ajax-comments.php:112
+msgid "(Edit)"
+msgstr ""
+
+#: ../comments.php:22 ../differ/functions/ajax-comments.php:114
+#, php-format
+msgid "%1$s at %2$s"
+msgstr ""
+
+#: ../comments.php:27 ../differ/functions/ajax-comments.php:119
+msgid "Your comment is awaiting moderation."
+msgstr ""
+
+#: ../comments.php:74
+msgid "Post Comment"
+msgstr ""
+
+#: ../comments.php:77
+msgid "Name"
+msgstr ""
+
+#: ../comments.php:78
+msgid "Email"
+msgstr ""
+
+#: ../comments.php:82
+msgid "Comment..."
+msgstr ""
+
+#: ../comments.php:92 ../differ/functions/ajax-comments.php:63
+#, php-format
+msgid "You must be %1$slogged in%2$s to post a comment."
+msgstr ""
+
+#: ../comments.php:95
+#, php-format
+msgid "Logged in as %1$s. %2$sLog out &raquo;%3$s"
+msgstr ""
+
+#: ../comments.php:97
+msgid "Log out of this account"
+msgstr ""
+
+#: ../differ/acf/acf-config.php:6
+msgid "Theme Options"
+msgstr ""
+
+#: ../differ/customizer/blog.php:5
+msgid "Blog List"
+msgstr ""
+
+#: ../differ/customizer/blog.php:14
+msgid "Sticky Sidebar"
+msgstr ""
+
+#: ../differ/customizer/blog.php:24
+msgid "Blog List Type"
+msgstr ""
+
+#: ../differ/customizer/blog.php:29
+msgid "Right sidebar"
+msgstr ""
+
+#: ../differ/customizer/blog.php:30
+msgid "Left sidebar"
+msgstr ""
+
+#: ../differ/customizer/blog.php:31
+msgid "Wide, without sidebar"
+msgstr ""
+
+#: ../differ/customizer/blog.php:39
+msgid "Pagination Alignment"
+msgstr ""
+
+#: ../differ/customizer/blog.php:44 ../differ/customizer/blog.php:45
+msgid "Center"
+msgstr ""
+
+#: ../differ/customizer/blog.php:46
+msgid "Right"
+msgstr ""
+
+#: ../differ/customizer/blog.php:54 ../differ/customizer/blog.php:124
+msgid "Show Date"
+msgstr ""
+
+#: ../differ/customizer/blog.php:64 ../differ/customizer/blog.php:134
+msgid "Show Author Link"
+msgstr ""
+
+#: ../differ/customizer/blog.php:74 ../differ/customizer/blog.php:144
+msgid "Show Categories"
+msgstr ""
+
+#: ../differ/customizer/blog.php:84
+msgid "Show Comments Count"
+msgstr ""
+
+#: ../differ/customizer/blog.php:94 ../differ/customizer/blog.php:155
+msgid "Show Likes"
+msgstr ""
+
+#: ../differ/customizer/blog.php:104 ../differ/customizer/blog.php:165
+msgid "Show Views"
+msgstr ""
+
+#: ../differ/customizer/blog.php:114
+msgid "Blog Single"
+msgstr ""
+
+#: ../differ/customizer/breadcrumbs.php:11
+msgid "Breadcrumbs Delimiter"
+msgstr ""
+
+#: ../differ/customizer/breadcrumbs.php:15
+msgid "You can use icons from kingcomposer or symbols, as example ( > | / \\)"
+msgstr ""
+
+#: ../differ/customizer/breadcrumbs.php:25
+msgid "Global Breadcrumbs Background"
+msgstr ""
+
+#: ../differ/customizer/breadcrumbs.php:42
+msgid "Breadcrumbs Color"
+msgstr ""
+
+#: ../differ/customizer/color_scheme.php:11
+msgid "Select primary color"
+msgstr ""
+
+#: ../differ/customizer/color_scheme.php:22
+msgid "Select black color"
+msgstr ""
+
+#: ../differ/customizer/color_scheme.php:32
+msgid "Select white color"
+msgstr ""
+
+#: ../differ/customizer/customizer.php:29
+msgid "Typography"
+msgstr ""
+
+#: ../differ/customizer/customizer.php:37
+msgid "Color Scheme"
+msgstr ""
+
+#: ../differ/customizer/customizer.php:46
+msgid "General Settings"
+msgstr ""
+
+#: ../differ/customizer/customizer.php:55
+msgid "Navigation & Menu"
+msgstr ""
+
+#: ../differ/customizer/customizer.php:64
+msgid "Blog"
+msgstr ""
+
+#: ../differ/customizer/customizer.php:71
+msgid "Preloader"
+msgstr ""
+
+#: ../differ/customizer/customizer.php:79
+msgid "Scrollbar"
+msgstr ""
+
+#: ../differ/customizer/customizer.php:87
+msgid "Breadcrumbs"
+msgstr ""
+
+#: ../differ/customizer/customizer.php:97
+msgid "Tooltips"
+msgstr ""
+
+#: ../differ/customizer/customizer.php:105
+msgid "Footer"
+msgstr ""
+
+#: ../differ/customizer/general.php:8
+msgid "Site Background"
+msgstr ""
+
+#: ../differ/customizer/general.php:9
+msgid "Upload Image or Choose color"
+msgstr ""
+
+#: ../differ/customizer/general.php:27
+msgid "Scroll to top Button"
+msgstr ""
+
+#: ../differ/customizer/navigation.php:12
+msgid "Desktop Navigation"
+msgstr ""
+
+#: ../differ/customizer/navigation.php:22
+msgid "Social links in navigation"
+msgstr ""
+
+#: ../differ/customizer/navigation.php:34
+#: ../differ/customizer/navigation.php:2923
+msgid "Select Navigation Type"
+msgstr ""
+
+#: ../differ/customizer/navigation.php:38
+msgid "Fixed On Scroll"
+msgstr ""
+
+#: ../differ/customizer/navigation.php:39
+msgid "Fixed Fill"
+msgstr ""
+
+#: ../differ/customizer/navigation.php:40
+msgid "Static Fill"
+msgstr ""
+
+#: ../differ/customizer/navigation.php:41
+msgid "Static Transparent"
+msgstr ""
+
+#: ../differ/customizer/navigation.php:51
+#: ../differ/customizer/navigation.php:2938
+#: ../differ/customizer/preloader.php:75
+msgid "Background Color"
+msgstr ""
+
+#: ../differ/customizer/navigation.php:52
+#: ../differ/customizer/navigation.php:2939
+msgid "Filled Navigation Background Color"
+msgstr ""
+
+#: ../differ/customizer/navigation.php:66
+#: ../differ/customizer/navigation.php:2953
+msgid "Navigation Height"
+msgstr ""
+
+#: ../differ/customizer/navigation.php:83
+msgid "Navigation Link Font Size"
+msgstr ""
+
+#: ../differ/customizer/navigation.php:100
+msgid "Link Color"
+msgstr ""
+
+#: ../differ/customizer/navigation.php:114
+msgid "Link Hover Color"
+msgstr ""
+
+#: ../differ/customizer/navigation.php:128
+msgid "Select Links Font"
+msgstr ""
+
+#: ../differ/customizer/navigation.php:992
+msgid "Choose Sub Menu Background color"
+msgstr ""
+
+#: ../differ/customizer/navigation.php:1006
+msgid "Select Sub Menu Links Font"
+msgstr ""
+
+#: ../differ/customizer/navigation.php:1869
+#: ../differ/customizer/navigation.php:1883
+msgid "Choose Sub Menu Link Color"
+msgstr ""
+
+#: ../differ/customizer/navigation.php:1897
+msgid "Navigation Sub Menu Link Font Size"
+msgstr ""
+
+#: ../differ/customizer/navigation.php:1919
+msgid "Logotype"
+msgstr ""
+
+#: ../differ/customizer/navigation.php:1929
+msgid "Select Logo Type"
+msgstr ""
+
+#: ../differ/customizer/navigation.php:1934
+msgid "Image"
+msgstr ""
+
+#: ../differ/customizer/navigation.php:1935
+msgid "Text"
+msgstr ""
+
+#: ../differ/customizer/navigation.php:1944
+msgid "Image Logo"
+msgstr ""
+
+#: ../differ/customizer/navigation.php:1945
+msgid "Upload Image PNG|JPG|GIF|SVG"
+msgstr ""
+
+#: ../differ/customizer/navigation.php:1956
+msgid "Set logo height"
+msgstr ""
+
+#: ../differ/customizer/navigation.php:1973
+msgid "Insert Logo Text"
+msgstr ""
+
+#: ../differ/customizer/navigation.php:1984
+msgid "Select Logo Font"
+msgstr ""
+
+#: ../differ/customizer/navigation.php:2847
+msgid "Select Logo Font Size"
+msgstr ""
+
+#: ../differ/customizer/navigation.php:2864
+msgid "Select Logo Font Weight"
+msgstr ""
+
+#: ../differ/customizer/navigation.php:2885
+msgid "Choose Logo Color"
+msgstr ""
+
+#: ../differ/customizer/navigation.php:2897
+msgid "Choose Logo Hover Color"
+msgstr ""
+
+#: ../differ/customizer/navigation.php:2913
+msgid "Mobile Navigation"
+msgstr ""
+
+#: ../differ/customizer/navigation.php:2927
+msgid "Fixed "
+msgstr ""
+
+#: ../differ/customizer/navigation.php:2928
+msgid "Static "
+msgstr ""
+
+#: ../differ/customizer/navigation.php:2970
+msgid "Choose Menu Wrapper Background Color"
+msgstr ""
+
+#: ../differ/customizer/navigation.php:2984
+msgid "Choose Sub Menu  Background Color"
+msgstr ""
+
+#: ../differ/customizer/navigation.php:2998
+msgid "Select Links Font Size"
+msgstr ""
+
+#: ../differ/customizer/navigation.php:3015
+msgid "Choose Links Color"
+msgstr ""
+
+#: ../differ/customizer/navigation.php:3030
+msgid "Choose Links Hover Color"
+msgstr ""
+
+#: ../differ/customizer/navigation.php:3045
+msgid "Select Links Line Height"
+msgstr ""
+
+#: ../differ/customizer/preloader.php:10
+msgid "Enable Preloader"
+msgstr ""
+
+#: ../differ/customizer/preloader.php:25
+msgid "Use Theme Preloader"
+msgstr ""
+
+#: ../differ/customizer/preloader.php:26
+msgid "Upload Custom"
+msgstr ""
+
+#: ../differ/customizer/preloader.php:63
+msgid "Upload Custom Preloader"
+msgstr ""
+
+#: ../differ/customizer/preloader.php:64
+msgid "Upload image GIF|PNG|JPG|JPEG|SVG"
+msgstr ""
+
+#: ../differ/customizer/preloader.php:87
+msgid "Preloader Element1 Color"
+msgstr ""
+
+#: ../differ/customizer/preloader.php:97
+msgid "Preloader Element2 Color"
+msgstr ""
+
+#: ../differ/customizer/preloader.php:107
+msgid "Preloader Element3 Color"
+msgstr ""
+
+#: ../differ/customizer/scrollbar.php:10
+msgid "Enable Custom Scrollbar "
+msgstr ""
+
+#: ../differ/customizer/scrollbar.php:11
+msgid "Work only in WebKit browsers : Chrome, Opera, Safari"
+msgstr ""
+
+#: ../differ/customizer/scrollbar.php:22
+msgid "Scrollbar width"
+msgstr ""
+
+#: ../differ/customizer/scrollbar.php:38
+msgid "Scrollbar Background Color"
+msgstr ""
+
+#: ../differ/customizer/scrollbar.php:50
+msgid "Scrollbar Color"
+msgstr ""
+
+#: ../differ/customizer/scrollbar.php:62
+msgid "Scrollbar Hover Color"
+msgstr ""
+
+#: ../differ/customizer/scrollbar.php:73
+msgid "Scrollbar Border Color"
+msgstr ""
+
+#: ../differ/customizer/tooltips.php:11
+msgid "Select Tooltips Text Color"
+msgstr ""
+
+#: ../differ/customizer/tooltips.php:23
+msgid "Select Tooltips Font Size"
+msgstr ""
+
+#: ../differ/customizer/typography.php:6
+msgid "Text Settings"
+msgstr ""
+
+#: ../differ/customizer/typography.php:18
+msgid "Select Default Text Color"
+msgstr ""
+
+#: ../differ/customizer/typography.php:31
+msgid "Select Primary Font"
+msgstr ""
+
+#: ../differ/customizer/typography.php:894
+msgid "Select Secondary Font"
+msgstr ""
+
+#: ../differ/customizer/typography.php:1757
+msgid "Select Fonts Subset"
+msgstr ""
+
+#: ../differ/customizer/typography.php:1780
+msgid "Body Default Text Font Size"
+msgstr ""
+
+#: ../differ/customizer/typography.php:1788
+msgid "1200px +"
+msgstr ""
+
+#: ../differ/customizer/typography.php:1804
+msgid "991-1199px"
+msgstr ""
+
+#: ../differ/customizer/typography.php:1820
+msgid "767-991px"
+msgstr ""
+
+#: ../differ/customizer/typography.php:1836
+msgid "440-767px"
+msgstr ""
+
+#: ../differ/customizer/typography.php:1852
+msgid "-440px"
+msgstr ""
+
+#: ../differ/customizer/typography.php:1868
+msgid "Headings Settings"
+msgstr ""
+
+#: ../differ/customizer/typography.php:1878
+msgid "Select Headings Font"
+msgstr ""
+
+#: ../differ/customizer/typography.php:2741
+msgid "Select Headings Color"
+msgstr ""
+
+#: ../differ/customizer/typography.php:2752
+msgid "Select H1 Font Weight"
+msgstr ""
+
+#: ../differ/customizer/typography.php:2771
+msgid "Select H2 Font Weight"
+msgstr ""
+
+#: ../differ/customizer/typography.php:2790
+msgid "Select H3 Font Weight"
+msgstr ""
+
+#: ../differ/customizer/typography.php:2809
+msgid "Select H4 Font Weight"
+msgstr ""
+
+#: ../differ/customizer/typography.php:2828
+msgid "Select H5 Font Weight"
+msgstr ""
+
+#: ../differ/customizer/typography.php:2847
+msgid "Select H6 Font Weight"
+msgstr ""
+
+#: ../differ/customizer/typography.php:2869
+msgid "Desktop Headings ( 1200+ )"
+msgstr ""
+
+#: ../differ/customizer/typography.php:2876
+msgid "H1 Desktop Font Size (1200px +)"
+msgstr ""
+
+#: ../differ/customizer/typography.php:2890
+#: ../differ/customizer/typography.php:3173
+#: ../differ/customizer/typography.php:3269
+msgid "H2 Font Size "
+msgstr ""
+
+#: ../differ/customizer/typography.php:2904
+#: ../differ/customizer/typography.php:2998
+#: ../differ/customizer/typography.php:3092
+msgid "H3  Font Size "
+msgstr ""
+
+#: ../differ/customizer/typography.php:2918
+#: ../differ/customizer/typography.php:3012
+#: ../differ/customizer/typography.php:3106
+msgid "H4  Font Size "
+msgstr ""
+
+#: ../differ/customizer/typography.php:2932
+#: ../differ/customizer/typography.php:3026
+#: ../differ/customizer/typography.php:3120
+msgid "H5  Font Size "
+msgstr ""
+
+#: ../differ/customizer/typography.php:2946
+#: ../differ/customizer/typography.php:3040
+#: ../differ/customizer/typography.php:3134
+msgid "H6  Font Size "
+msgstr ""
+
+#: ../differ/customizer/typography.php:2963
+msgid "Headings ( 992-1199px )"
+msgstr ""
+
+#: ../differ/customizer/typography.php:2970
+#: ../differ/customizer/typography.php:3064
+msgid "H1  Font Size "
+msgstr ""
+
+#: ../differ/customizer/typography.php:2984
+#: ../differ/customizer/typography.php:3078
+msgid "H2  Font Size "
+msgstr ""
+
+#: ../differ/customizer/typography.php:3057
+msgid "Devices ( 768-991px )"
+msgstr ""
+
+#: ../differ/customizer/typography.php:3152
+msgid "6-8` Devices Headings ( 440 - 767px )"
+msgstr ""
+
+#: ../differ/customizer/typography.php:3159
+#: ../differ/customizer/typography.php:3255
+msgid "H1 Font Size "
+msgstr ""
+
+#: ../differ/customizer/typography.php:3187
+#: ../differ/customizer/typography.php:3283
+msgid "H3 Font Size "
+msgstr ""
+
+#: ../differ/customizer/typography.php:3201
+#: ../differ/customizer/typography.php:3297
+msgid "H4 Font Size "
+msgstr ""
+
+#: ../differ/customizer/typography.php:3215
+#: ../differ/customizer/typography.php:3311
+msgid "H5 Font Size "
+msgstr ""
+
+#: ../differ/customizer/typography.php:3229
+#: ../differ/customizer/typography.php:3325
+msgid "H6 Font Size "
+msgstr ""
+
+#: ../differ/customizer/typography.php:3247
+msgid "Mobile Headings ( -440px  )"
+msgstr ""
+
+#: ../differ/customizer/typography.php:3341
+msgid "1200px+ Headings Margin Bottom"
+msgstr ""
+
+#: ../differ/customizer/typography.php:3357
+msgid "992px+ Headings Margin Bottom"
+msgstr ""
+
+#: ../differ/customizer/typography.php:3372
+msgid "768px+ Headings Margin Bottom"
+msgstr ""
+
+#: ../differ/customizer/typography.php:3387
+msgid "440px+ Headings Margin Bottom"
+msgstr ""
+
+#: ../differ/customizer/typography.php:3402
+msgid "440px- Headings Margin Bottom"
+msgstr ""
+
+#: ../differ/functions/ajax-comments.php:74
+msgid "Error: please fill all required fields"
+msgstr ""
+
+#: ../differ/functions/ajax-comments.php:77
+msgid "Error: incorrect email"
+msgstr ""
+
+#: ../differ/functions/ajax-comments.php:82
+msgid "Error: please type comment "
+msgstr ""
+
+#: ../differ/functions/general.php:11
+msgid " ago"
+msgstr ""
+
+#: ../differ/functions/general.php:18
+msgid "Home"
+msgstr ""
+
+#: ../differ/functions/general.php:45 ../differ/functions/general.php:224
+#: ../differ/functions/general.php:230 ../differ/functions/general.php:235
+#: ../differ/functions/general.php:242 ../differ/functions/general.php:247
+msgid "Archives"
+msgstr ""
+
+#: ../differ/functions/general.php:264
+msgid "Page"
+msgstr ""
+
+#: ../differ/functions/general.php:270
+msgid "Search results for: "
+msgstr ""
+
+#: ../differ/functions/nav.php:83
+msgid "Main Menu"
+msgstr ""
+
+#: ../differ/functions/sidebars.php:8
+msgid "Sidebar on posts page"
+msgstr ""
+
+#: ../differ/functions/tgm.php:334
+msgid "Install Required Plugins"
+msgstr ""
+
+#: ../differ/functions/tgm.php:335
+msgid "Install Plugins"
+msgstr ""
+
+#: ../differ/functions/tgm.php:337
+#, php-format
+msgid "Installing Plugin: %s"
+msgstr ""
+
+#: ../differ/functions/tgm.php:339
+#, php-format
+msgid "Updating Plugin: %s"
+msgstr ""
+
+#: ../differ/functions/tgm.php:340
+msgid "Something went wrong with the plugin API."
+msgstr ""
+
+#: ../differ/functions/tgm.php:392
+msgid "Return to Required Plugins Installer"
+msgstr ""
+
+#: ../differ/functions/tgm.php:393 ../differ/functions/tgm.php:912
+#: ../differ/functions/tgm.php:2618 ../differ/functions/tgm.php:3665
+msgid "Return to the Dashboard"
+msgstr ""
+
+#: ../differ/functions/tgm.php:394 ../differ/functions/tgm.php:3244
+msgid "Plugin activated successfully."
+msgstr ""
+
+#: ../differ/functions/tgm.php:395 ../differ/functions/tgm.php:3037
+msgid "The following plugin was activated successfully:"
+msgid_plural "The following plugins were activated successfully:"
+msgstr[0] ""
+msgstr[1] ""
+
+#: ../differ/functions/tgm.php:397
+#, php-format
+msgid "No action taken. Plugin %1$s was already active."
+msgstr ""
+
+#: ../differ/functions/tgm.php:399
+#, php-format
+msgid ""
+"Plugin not activated. A higher version of %s is needed for this theme. "
+"Please update the plugin."
+msgstr ""
+
+#: ../differ/functions/tgm.php:401
+#, php-format
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr ""
+
+#: ../differ/functions/tgm.php:402
+msgid "Dismiss this notice"
+msgstr ""
+
+#: ../differ/functions/tgm.php:403
+msgid ""
+"There are one or more required or recommended plugins to install, update or "
+"activate."
+msgstr ""
+
+#: ../differ/functions/tgm.php:404
+msgid "Please contact the administrator of this site for help."
+msgstr ""
+
+#: ../differ/functions/tgm.php:607
+msgid "This plugin needs to be updated to be compatible with your theme."
+msgstr ""
+
+#: ../differ/functions/tgm.php:608
+msgid "Update Required"
+msgstr ""
+
+#: ../differ/functions/tgm.php:1019
+msgid ""
+"The remote plugin package does not contain a folder with the desired slug "
+"and renaming did not work."
+msgstr ""
+
+#: ../differ/functions/tgm.php:1019 ../differ/functions/tgm.php:1022
+msgid ""
+"Please contact the plugin provider and ask them to package their plugin "
+"according to the WordPress guidelines."
+msgstr ""
+
+#: ../differ/functions/tgm.php:1022
+msgid ""
+"The remote plugin package consists of more than one file, but the files are "
+"not packaged in a folder."
+msgstr ""
+
+#: ../differ/functions/tgm.php:2067
+#, php-format
+msgid "TGMPA v%s"
+msgstr ""
+
+#: ../differ/functions/tgm.php:2358
+msgid "Required"
+msgstr ""
+
+#: ../differ/functions/tgm.php:2361
+msgid "Recommended"
+msgstr ""
+
+#: ../differ/functions/tgm.php:2377
+msgid "WordPress Repository"
+msgstr ""
+
+#: ../differ/functions/tgm.php:2380
+msgid "External Source"
+msgstr ""
+
+#: ../differ/functions/tgm.php:2383
+msgid "Pre-Packaged"
+msgstr ""
+
+#: ../differ/functions/tgm.php:2400
+msgid "Not Installed"
+msgstr ""
+
+#: ../differ/functions/tgm.php:2404
+msgid "Installed But Not Activated"
+msgstr ""
+
+#: ../differ/functions/tgm.php:2406
+msgid "Active"
+msgstr ""
+
+#: ../differ/functions/tgm.php:2412
+msgid "Required Update not Available"
+msgstr ""
+
+#: ../differ/functions/tgm.php:2415
+msgid "Requires Update"
+msgstr ""
+
+#: ../differ/functions/tgm.php:2418
+msgid "Update recommended"
+msgstr ""
+
+#: ../differ/functions/tgm.php:2427
+#, php-format
+msgid "%1$s, %2$s"
+msgstr ""
+
+#: ../differ/functions/tgm.php:2477
+#, php-format
+msgid "To Install <span class=\"count\">(%s)</span>"
+msgid_plural "To Install <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: ../differ/functions/tgm.php:2481
+#, php-format
+msgid "Update Available <span class=\"count\">(%s)</span>"
+msgid_plural "Update Available <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: ../differ/functions/tgm.php:2485
+#, php-format
+msgid "To Activate <span class=\"count\">(%s)</span>"
+msgid_plural "To Activate <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: ../differ/functions/tgm.php:2567
+msgid "unknown"
+msgstr ""
+
+#: ../differ/functions/tgm.php:2575
+msgid "Installed version:"
+msgstr ""
+
+#: ../differ/functions/tgm.php:2583
+msgid "Minimum required version:"
+msgstr ""
+
+#: ../differ/functions/tgm.php:2595
+msgid "Available version:"
+msgstr ""
+
+#: ../differ/functions/tgm.php:2618
+msgid "No plugins to install, update or activate."
+msgstr ""
+
+#: ../differ/functions/tgm.php:2632
+msgid "Plugin"
+msgstr ""
+
+#: ../differ/functions/tgm.php:2633
+msgid "Source"
+msgstr ""
+
+#: ../differ/functions/tgm.php:2634
+msgid "Type"
+msgstr ""
+
+#: ../differ/functions/tgm.php:2638
+msgid "Version"
+msgstr ""
+
+#: ../differ/functions/tgm.php:2639
+msgid "Status"
+msgstr ""
+
+#: ../differ/functions/tgm.php:2688
+#, php-format
+msgid "Install %2$s"
+msgstr ""
+
+#: ../differ/functions/tgm.php:2693
+#, php-format
+msgid "Update %2$s"
+msgstr ""
+
+#: ../differ/functions/tgm.php:2699
+#, php-format
+msgid "Activate %2$s"
+msgstr ""
+
+#: ../differ/functions/tgm.php:2769
+msgid "Upgrade message from the plugin author:"
+msgstr ""
+
+#: ../differ/functions/tgm.php:2802
+msgid "Install"
+msgstr ""
+
+#: ../differ/functions/tgm.php:2808
+msgid "Update"
+msgstr ""
+
+#: ../differ/functions/tgm.php:2811
+msgid "Activate"
+msgstr ""
+
+#: ../differ/functions/tgm.php:2842
+msgid "No plugins were selected to be installed. No action taken."
+msgstr ""
+
+#: ../differ/functions/tgm.php:2844
+msgid "No plugins were selected to be updated. No action taken."
+msgstr ""
+
+#: ../differ/functions/tgm.php:2885
+msgid "No plugins are available to be installed at this time."
+msgstr ""
+
+#: ../differ/functions/tgm.php:2887
+msgid "No plugins are available to be updated at this time."
+msgstr ""
+
+#: ../differ/functions/tgm.php:2993
+msgid "No plugins were selected to be activated. No action taken."
+msgstr ""
+
+#: ../differ/functions/tgm.php:3019
+msgid "No plugins are available to be activated at this time."
+msgstr ""
+
+#: ../differ/functions/tgm.php:3243
+msgid "Plugin activation failed."
+msgstr ""
+
+#: ../differ/functions/tgm.php:3583
+#, php-format
+msgid "Updating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: ../differ/functions/tgm.php:3586
+#, php-format
+msgid "An error occurred while installing %1$s: <strong>%2$s</strong>."
+msgstr ""
+
+#: ../differ/functions/tgm.php:3588
+#, php-format
+msgid "The installation of %1$s failed."
+msgstr ""
+
+#: ../differ/functions/tgm.php:3592
+msgid ""
+"The installation and activation process is starting. This process may take a "
+"while on some hosts, so please be patient."
+msgstr ""
+
+#: ../differ/functions/tgm.php:3594
+#, php-format
+msgid "%1$s installed and activated successfully."
+msgstr ""
+
+#: ../differ/functions/tgm.php:3594 ../differ/functions/tgm.php:3602
+msgid "Show Details"
+msgstr ""
+
+#: ../differ/functions/tgm.php:3594 ../differ/functions/tgm.php:3602
+msgid "Hide Details"
+msgstr ""
+
+#: ../differ/functions/tgm.php:3595
+msgid "All installations and activations have been completed."
+msgstr ""
+
+#: ../differ/functions/tgm.php:3597
+#, php-format
+msgid "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: ../differ/functions/tgm.php:3600
+msgid ""
+"The installation process is starting. This process may take a while on some "
+"hosts, so please be patient."
+msgstr ""
+
+#: ../differ/functions/tgm.php:3602
+#, php-format
+msgid "%1$s installed successfully."
+msgstr ""
+
+#: ../differ/functions/tgm.php:3603
+msgid "All installations have been completed."
+msgstr ""
+
+#: ../differ/functions/tgm.php:3605
+#, php-format
+msgid "Installing Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: ../functions.php:56
+msgid "To view this protected post, enter the password below:"
+msgstr ""
+
+#: ../functions.php:57
+msgid "Password:"
+msgstr ""
+
+#: ../functions.php:58
+msgid "Submit"
+msgstr ""
+
+#: ../includes/navigation.php:45
+msgid "Please register Menu in "
+msgstr ""
+
+#: ../includes/navigation.php:46
+msgid " Appearance / Menus"
+msgstr ""
+
+#: ../includes/notfound.php:3
+msgid "No results were found for the requested page."
+msgstr ""
+
+#: ../includes/portfolio-single.php:59 ../includes/post-single.php:131
+msgid "Pages:"
+msgstr ""
+
+#: ../includes/portfolio-single.php:81 ../includes/post-single.php:154
+#: ../page.php:15
+msgid "Comment"
+msgid_plural "Comments"
+msgstr[0] ""
+msgstr[1] ""
+
+#: ../searchform.php:2
+msgid "Search..."
+msgstr ""
+
+#: ../sections/albums_grid.php:204
+msgid "Loading "
+msgstr ""
+
+#: ../sections/albums_grid.php:205
+msgid "Load More"
+msgstr ""
+
+#: ../sections/latest_posts.php:39
+msgid "Read More"
+msgstr ""

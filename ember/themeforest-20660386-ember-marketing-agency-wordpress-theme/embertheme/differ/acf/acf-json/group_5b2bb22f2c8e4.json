@@ -1,0 +1,56 @@
+{
+    "key": "group_5b2bb22f2c8e4",
+    "title": "Post Template",
+    "fields": [
+        {
+            "key": "field_5b2bb2365ada9",
+            "label": "Layout",
+            "name": "post_template",
+            "type": "radio",
+            "instructions": "",
+            "required": 0,
+            "conditional_logic": 0,
+            "wrapper": {
+                "width": "",
+                "class": "",
+                "id": ""
+            },
+            "choices": {
+                "right_sidebar": "Right Sidebar",
+                "left_sidebar": "Left Sidebar",
+                "wide": "Without Sidebar"
+            },
+            "allow_null": 0,
+            "other_choice": 0,
+            "default_value": "wide",
+            "layout": "vertical",
+            "return_format": "value",
+            "save_other_choice": 0
+        }
+    ],
+    "location": [
+        [
+            {
+                "param": "post_type",
+                "operator": "==",
+                "value": "post"
+            }
+        ],
+        [
+            {
+                "param": "post_type",
+                "operator": "==",
+                "value": "portfolio"
+            }
+        ]
+    ],
+    "menu_order": 0,
+    "position": "normal",
+    "style": "default",
+    "label_placement": "top",
+    "instruction_placement": "label",
+    "hide_on_screen": "",
+    "active": 1,
+    "description": "",
+    "modified": 1533315459
+}
